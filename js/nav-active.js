@@ -1,3 +1,6 @@
+
+// A $( document ).ready() block.
+$( document ).ready(function() {
 // Cache selectors
 var lastId,
     topMenu = $("#top-menu"),
@@ -42,4 +45,6 @@ $(window).scroll(function(){
          .parent().removeClass("active")
          .end().filter("[href=#"+id+"]").parent().addClass("active");
    }                   
+});
+
 });
