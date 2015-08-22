@@ -1703,7 +1703,7 @@ table.rounded thead th, table.rounded thead td, table.rounded caption + tbody tr
 .fotogerf { font-family: 'Open Sans', sans-serif; }
 
 #one { 
-	background: url('/Gumby-master/img/stock1.jpg') no-repeat center center fixed !important; 
+	background: url('../../fotogerf/img/stock1.jpg') no-repeat center center fixed !important; 
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -1713,7 +1713,7 @@ table.rounded thead th, table.rounded thead td, table.rounded caption + tbody tr
 	width: 100%;
 	}
 #two { 
-	background: url('/Gumby-master/img/stock2.jpg') no-repeat center center fixed !important; 
+	background: url('../../fotogerf/img/stock2.jpg') no-repeat center center fixed !important; 
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -1722,7 +1722,7 @@ table.rounded thead th, table.rounded thead td, table.rounded caption + tbody tr
 	min-height: 100%;
 	}
 #three { 
-	background: url('/Gumby-master/img/stock3.jpg') no-repeat center center fixed !important; 
+	background: url('../../fotogerf/img/stock3.jpg') no-repeat center center fixed !important; 
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -1731,7 +1731,7 @@ table.rounded thead th, table.rounded thead td, table.rounded caption + tbody tr
 	min-height: 100%;
 	}	
 #four { 
-	background: url('/Gumby-master/img/stock4.jpg') no-repeat center center fixed !important; 
+	background: url('../../fotogerf/img/stock4.jpg') no-repeat center center fixed !important; 
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -1740,7 +1740,7 @@ table.rounded thead th, table.rounded thead td, table.rounded caption + tbody tr
 	min-height: 100%;
 	}
 #five { 
-	background: url('/Gumby-master/img/stock5.jpg') no-repeat center center fixed !important; 
+	background: url('../../fotogerf/img/stock5.jpg') no-repeat center center fixed !important; 
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -1749,7 +1749,7 @@ table.rounded thead th, table.rounded thead td, table.rounded caption + tbody tr
 	min-height: 100%;
 	}
 #six { 
-	background: url('/Gumby-master/img/stock6.jpg') no-repeat center center fixed !important; 
+	background: url('../../fotogerf/img/stock6.jpg') no-repeat center center fixed !important; 
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
